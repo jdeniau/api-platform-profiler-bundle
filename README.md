@@ -3,9 +3,8 @@ API Platform profiler bundle
 
 ## ! Deprecated package !
 
-This package has been merged into api-platform core via https://github.com/api-platform/core/pull/1707
+This package has been merged into api-platform core via https://github.com/api-platform/core/pull/1707 and released in [v2.3.0](https://github.com/api-platform/core/tree/v2.3.0), so no further developpement will be done here.
 
-It will be soon released in api-platform core, so no further developpement will be done here.
 
 A profiler extension for api-platform server. Display resource information in the Symfony debug toolbar
 
